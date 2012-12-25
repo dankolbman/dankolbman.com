@@ -1,0 +1,15 @@
+---
+layout: default
+title: Archive
+---
+<h2 id="intro">There are {{ site.posts.size }} posts in the archive!</h2>
+
+<div class="post">
+  <ul>
+  {% for post in site.posts %}
+    <li>
+      {{ post.date | date: "%b.%d.%Y"  }}  <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
