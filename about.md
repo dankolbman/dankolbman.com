@@ -11,5 +11,9 @@ Outside physics, I dabble in electronics and programming and study people and th
 
 # The Site
 
-I chose to use Jekyll [Jekyll](https://github.com/mojombo/jekyll "Jekyll") for static site generation in conjunction with [Blahtex](http://gva.noekeon.org/blahtexml/ "Blahtex") for png rendering of $\LaTeX{}$ to serve up a 100% static site with zero external dependencies. This allow me freedom from constant updates, long loading times, security vulnerabilities, bulky backends, and spontaneous bugs which I simply do not have time for.
-   
+I chose to use [Jekyll](https://github.com/mojombo/jekyll "Jekyll") for static site generation in conjunction with [Blahtex](http://gva.noekeon.org/blahtexml/ "Blahtex") for png rendering of LaTeX to serve up a 100% static site with zero external dependencies. This allow me freedom from constant updates, long loading times, security vulnerabilities, bulky backends, and spontaneous bugs which I simply do not have time for.  
+
+# Contact Me
+
+If you have questions, comments, recommendations, or if I am wrong, made a mistake, or about crash space-time, please e-mail me at [dan@dankolbman.com](mailto:dan@dankolbman.com)
+
