@@ -5,7 +5,7 @@ title: "Me"
 
 # {{ page.title }}
 
-I'm Daniel Kolbman. I'm 19. I study Physics at RIT. I'm fascinated by the ease at which complex phenomena can be expressed with only a handful of symbols. I love collecting, fitting, extrapolating, and analyzing data and using visualizations to give it deeper meaning. I'm inspired by the antics of Richard Feynman and the enthusiasm of Neil DeGrasse Tyson. I'm an advocate of <a href="http://en.wikipedia.org/wiki/Open_science" title="Open Science">Open Science</a> and, when I retire, I will be moving to Mars.
+I'm Daniel Kolbman. I'm 19. I study Physics at RIT. I'm fascinated by the ease at which complex phenomena can be expressed with only a handful of symbols. I love collecting, fitting, extrapolating, and analyzing data and using visualizations to give it deeper meaning. I'm inspired by the antics of [Richard Feynman](http://en.wikipedia.org/wiki/Richard_Feynman) and the personalities like [P.A.M. Dirac](http://en.wikipedia.org/wiki/Paul_Dirac). I'm an advocate of <a href="http://en.wikipedia.org/wiki/Open_science" title="Open Science">Open Science</a> and, when I retire, I will be moving to Mars.
 
 Outside physics, I dabble in electronics and programming and study people and the curious things they do. I greatly ejoy listening to trance, goa, minimal and other forms of electronic music. I appreciate a good cup of coffee or tea and a <a href="http://www.imdb.com/title/tt1612774/" title="good movie">good movie</a>.
 
