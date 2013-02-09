@@ -50,6 +50,10 @@ img, #youtube {
   margin: 5px auto 5px auto;
 }
 
+.maruku-inline img{
+  display: inline;
+}
+
 h1, h2, h3, #footer {
   font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   font-weight: bolder;
