@@ -64,3 +64,7 @@ Of-course, we'll have only the best material at hand when we create our sail, so
 $$ p(I) = 2\frac{I}{c} $$
 
 
+That's as far as we'll go for now, but stay tuned. Later we'll take a look at the distacne dependency of intensity by the inverse square law and derive some models for the motion of our sail.
+
+If you have any questions or comments or would like to point out a typo, mistake, or poor explanation, please email me at dan@dankolbman.com.
+
